@@ -1,0 +1,13 @@
+F:\Seliverstov\SeliverstovSports\SeliverstovSports\bin\Debug\SeliverstovSports.exe.config
+F:\Seliverstov\SeliverstovSports\SeliverstovSports\bin\Debug\SeliverstovSports.exe
+F:\Seliverstov\SeliverstovSports\SeliverstovSports\bin\Debug\SeliverstovSports.pdb
+F:\Seliverstov\SeliverstovSports\SeliverstovSports\obj\Debug\SeliverstovSports.csprojAssemblyReference.cache
+F:\Seliverstov\SeliverstovSports\SeliverstovSports\obj\Debug\SeliverstovSports.Form1.resources
+F:\Seliverstov\SeliverstovSports\SeliverstovSports\obj\Debug\SeliverstovSports.Properties.Resources.resources
+F:\Seliverstov\SeliverstovSports\SeliverstovSports\obj\Debug\SeliverstovSports.csproj.GenerateResource.cache
+F:\Seliverstov\SeliverstovSports\SeliverstovSports\obj\Debug\SeliverstovSports.csproj.CoreCompileInputs.cache
+F:\Seliverstov\SeliverstovSports\SeliverstovSports\obj\Debug\SeliverstovSports.exe
+F:\Seliverstov\SeliverstovSports\SeliverstovSports\obj\Debug\SeliverstovSports.pdb
+F:\Seliverstov\SeliverstovSports\SeliverstovSports\obj\Debug\SeliverstovSports.FormAdd.resources
+F:\Seliverstov\SeliverstovSports\SeliverstovSports\obj\Debug\SeliverstovSports.FormDelete.resources
+F:\Seliverstov\SeliverstovSports\SeliverstovSports\obj\Debug\SeliverstovSports.MenuForm.resources
